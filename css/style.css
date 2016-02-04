@@ -5,6 +5,12 @@ body {
  padding-top: 50px;
 }
 
+div#topo{
+	width: 950px;
+	height: 165px;
+	margin: 0 auto;
+}
+
 div#menu{
 	 background: #554e4e;
 	 width: 950px;
